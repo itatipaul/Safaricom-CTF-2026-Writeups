@@ -11,8 +11,7 @@ Prefer one long read? Start with [`full-writeup.md`](full-writeup.md), which wal
 | | |
 |---|---|
 | **Havoc** ([@havocsec](https://havocsec.dev)) |
-| **itatipaul, aka Senpai** ([@itatipaul](https://github.com/itatipaul), [portfolio](https://itatipaul.github.io/)) | Crypto track (*Three Encores*, *Parallel Lines*, *Midnight Parcel*), forensics (*Long Exposure*, *Fancy Details*), and reverse engineering (*Pixel Courier*, *Prism Orchestra*, plus a second take on *Clockwork Ballet*) |
-
+| **itatipaul, aka Senpai** ([@itatipaul](https://github.com/itatipaul), [portfolio](https://itatipaul.github.io/)) |
 ## Challenges
 
 ### Web
