@@ -1,3 +1,4 @@
+<img width="735" height="503" alt="Safctf" src="https://github.com/user-attachments/assets/d7014796-7d29-4692-ab8b-f3973c715096" />
 # Safaricom PwnZone CTF 2026 — Writeups
 
 Writeups for all 37 challenges we solved at **Safaricom's PwnZone CTF 2026** (pre-qualifiers, 2–4 October 2026), covering web, cloud, crypto, forensics, mobile forensics, OSINT, reverse engineering, CVE and AI.
